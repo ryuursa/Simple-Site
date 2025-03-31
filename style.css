@@ -148,7 +148,7 @@ p{
 
 .video {
     background: #EEEFF1;
-    height: 1004px;
+    height: 904px;
     padding-top: 100px;
     text-align: center;
 }
@@ -174,7 +174,7 @@ p{
 }
 
 .videoPicture {
-    width: 1104px;
+    width: 1004px;
     height: 600px;
     margin: 50px auto 0 auto; 
     position: relative; 
